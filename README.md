@@ -34,6 +34,7 @@
   - (*) CEP
 
 ## ⛏️ Tecnologias a serem utilizadas
+- [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [Nestjs](https://nestjs.com/)
 - [Postgres](https://www.postgresql.org/)
